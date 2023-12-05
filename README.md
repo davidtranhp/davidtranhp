@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">I'm David Tran, CEO of <a href="https://viindoo.com" target="_blank">Viindoo</a></h1>
-<strong>a software architect, an entrepreneur, a specialist in enterprise strategic management and digital transformation.</strong>
+<h1>I'm David Tran, CEO of <a href="https://viindoo.com" target="_blank">Viindoo</a></h1>
+<h2>a software architect, an entrepreneur, a specialist in enterprise strategic management and digital transformation.</h2>
 
 <h3 align="left">Github Stats:</h3>
 <div align="center">
