@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <h1>I'm David Tran, CEO of <a href="https://viindoo.com" target="_blank">Viindoo</a></h1>
-<h2>a software architect, an entrepreneur, a specialist in enterprise strategic management and digital transformation.</h2>
+<h4>a software architect, an entrepreneur, a specialist in enterprise strategic management and digital transformation.</h4>
+<p>My mission is to help small and medium enterprises (SMEs) around the world transform their business digitally in fast and efficient way based on breakthrough technology achievements and best business digital transformation practices.</p>
+<p>My message is that the combination of innovative technology and the best business management practices creates success in business digital transformation for fast and solid growth.</p>
 
-<h3 align="left">Github Stats:</h3>
-<div align="center">
+### My contributions on Github
 <img src="https://github-readme-stats.vercel.app/api?username=davidtranhp&count_private=true&include_all_commits=true&show_icons=true" width="375" alt="davidtranhp"/>
-</div>
 
 <!--
 **davidtranhp/davidtranhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
