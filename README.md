@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm David Tran, CEO of <a href="https://viindoo.com" target="_blank">Viindoo</a></h1>
+<strong>I'm is a software architect, an entrepreneur, a specialist in enterprise strategic management and digital transformation.</strong>strong>
+
+<h3 align="left">Github Stats:</h3>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=davidtranhp&count_private=true&include_all_commits=true&show_icons=true" width="375" alt="davidtranhp"/>
+</div>
+
 <!--
 **davidtranhp/davidtranhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
